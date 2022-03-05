@@ -1,0 +1,37 @@
+body {
+
+    color:white;
+    background: pink;
+    text-align: left;
+
+}
+
+.heading {
+
+    width:80%;
+    font-size: 22px;
+
+}
+
+#camera {
+
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+
+}
+
+.name_of_objects {
+
+    background-color: blueviolet;
+    
+      
+
+    color: white;
+
+}
+
+#result_object_name, #result_object_accuracy {
+
+    color: yellow;
+}
